@@ -17,6 +17,8 @@
 - import \* as jquery from "jquery"
 - import "semantic-ui"
 
-### finally, add@import "semantic-ui";to app/assets/stylesheets/custom.css.scss
+### finally, add below line to app/assets/stylesheets/custom.css.scss
+
+- @import "semantic-ui";
 
 That's it! Now Semantic-UI should be fully functional in rails 7.
