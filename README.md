@@ -1,24 +1,28 @@
-# README
+# Message-me App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps are necessary to get the application up and running.
 
-Things you may want to cover:
+- Ruby version: "3.1.3"
 
-* Ruby version
+- Rails version: "~> 7.0.4", ">= 7.0.4.3"
 
-* System dependencies
+- Database creation
 
-* Configuration
+```
+  rails db:create
+```
 
-* Database creation
+- Database initialization
 
-* Database initialization
+```
+  rails db:migrate
+```
 
-* How to run the test suite
+- How to run the server
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+  rails server
+```
 
-* Deployment instructions
-
-* ...
+- Used Semantic UI to beautify the application.
+  - Setup [Link Here](https://github.com/Akash1298/message_me/blob/master/Semantic-ui.md) for Rails 7.
