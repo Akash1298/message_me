@@ -2,9 +2,10 @@
 
 This is a real time chat application where users can sign up to have accounts and start chatting with all signed up members in real-time.
 
-<img width="960" alt="image" src="https://github.com/Akash1298/message_me/assets/65884746/2755246c-e8be-4c1b-84f2-0d93cb82b2ad">
+<img width="480" alt="image" src="https://github.com/Akash1298/message_me/assets/65884746/6d8cb025-3917-4fde-bd61-2e1cbe1d4494">
 
-<img width="960" alt="image" src="https://github.com/Akash1298/message_me/assets/65884746/9e1b3858-c338-49fe-bf5c-11fb2d39cf83">
+<img width="480" alt="image" src="https://github.com/Akash1298/message_me/assets/65884746/09a07e78-a24c-4935-854b-d159e126e981">
+
 
 ## Build with
 
